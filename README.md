@@ -17,6 +17,6 @@ MySQL, SQL Server
 Visual Studio Code, GIT (Version Control), JIRA, Jenkins, Postman
 
 📫 Reach me on :
-LinkedIn: https://www.linkedin.com/in/shashank--verma/
+LinkedIn: https://www.linkedin.com/in/shashank--verma/ //
 Email: shashank6341@gmail.com
 LeetCode: https://leetcode.com/shashank_verma6341/
