@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello World 👋, I am Shashank Verma
 
-<!--
-**shashank6341/shashank6341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Grad @ Concordia University, Montréal, Canada
 
-Here are some ideas to get you started:
+Self-motivated programmer highly effective at designing and developing solutions with professional experience, who is looking forward to brainstorming projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Programming Languages :
+Java, JavaScript, TypeScript 
+
+💻 Frameworks :
+Node.js, Express.js, Angular, React
+
+💾 Database :
+MySQL, SQL Server
+
+🛠️ Tools :
+Visual Studio Code, GIT (Version Control), JIRA, Jenkins, Postman
+
+📫 Reach me on :
+LinkedIn: https://www.linkedin.com/in/shashank--verma/
+Email: shashank6341@gmail.com
+LeetCode: https://leetcode.com/shashank_verma6341/
